@@ -13,3 +13,4 @@ data.forEach(ele => {
 document.getElementById("list").innerHTML=str
 })
 })
+
